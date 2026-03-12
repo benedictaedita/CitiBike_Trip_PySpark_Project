@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# large datasets
+*.parquet
+
+# Spark outputs
+citibike_cleaned_parquet/
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# virtual environments
+.venv/
